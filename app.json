@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "Example",
+    "slug": "Example",
+    "version": "1.0.0",
+    "newArchEnabled": false,
+    "plugins": [
+      "react-native-video"
+    ],
+    "android": {
+      "package": "com.kenji.example",
+      "permissions": []
+    },
+    "ios": {
+      "bundleIdentifier": "com.kenji.example"
+    }
+  }
+}
